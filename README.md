@@ -7,7 +7,7 @@
   
   ```
   
-  ### output
+  ### output:
   `bhasker
    apple
    Banana

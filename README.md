@@ -9,8 +9,11 @@
   
   ### output
   `bhasker
+  
    apple
+   
    Banana
+   
    Bingo
   `
   

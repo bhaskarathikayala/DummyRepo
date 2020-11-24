@@ -2,18 +2,15 @@
   ```java
   String names[] = {"bhaskar","apple","Banana","Bingo"};
   for(Stirng name : names){
-   System.out.println(name);
+   System.out.print(name);
   }
   
   ```
   
   ### output
   `bhasker
-  
    apple
-   
    Banana
-   
    Bingo
   `
   

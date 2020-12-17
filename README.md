@@ -19,7 +19,7 @@
 ### _Optoro Automation_
 ---
 ```diff
-+CCUI-Return
-+optoro-receive-validations
+`+CCUI-Return
++optoro-receive-validations`
 ```
   

@@ -23,6 +23,6 @@
 +optoro-receive-validations`
 ```
   
-|Table|
-|---| 
-|Bhaskar|
+| Table |
+| --- | 
+| Bhaskar |

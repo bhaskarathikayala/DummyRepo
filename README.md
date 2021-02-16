@@ -23,6 +23,6 @@
 +optoro-receive-validations`
 ```
   
-| Table |
-| --- | 
-| Bhaskar |
+| Jira ID | # Test Cases | Status |
+| --- | ---| ---|
+| Bhaskar | 12 | WIP |

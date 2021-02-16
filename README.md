@@ -23,4 +23,4 @@
 +optoro-receive-validations`
 ```
   
-[this subtext](subpro/subtext.md)
+[this subtext](https://www.google.com/)

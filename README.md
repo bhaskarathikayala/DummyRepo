@@ -16,7 +16,7 @@
   
   
   
-### _Optoro Automation_
+### _testing Automation_
 --
 ```diff
 `+CCUI-Return
@@ -27,6 +27,6 @@
   
 | Jira ID | # Test Cases | Status |
 | :---: | :---: | :---: |
-| [RLEO-210](https://jira.wsgc.com/browse/RLEO-210) | 12 | WIP |
+| [RLEO-210](https://jira.xox.com/browse/RLEO-210) | 12 | WIP |
 
 ***

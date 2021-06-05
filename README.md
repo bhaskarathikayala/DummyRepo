@@ -27,6 +27,6 @@
   
 | Jira ID | # Test Cases | Status |
 | :---: | :---: | :---: |
-| [RLEO-210](https://jira.xox.com/browse/RLEO-210) | 12 | WIP |
+| [xox-210](https://jira.xox.com/browse/RLEO-210) | 12 | WIP |
 
 ***
